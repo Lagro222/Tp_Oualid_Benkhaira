@@ -1,8 +1,6 @@
 #include <stdio.h>
-
-
 int main() {
 
-    printf("this is the main file ");    
+    printf("this is test file ");    
     return 0;
-}
+} 
